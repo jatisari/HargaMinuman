@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harga Minuman</string>
+    <string name="daftarmenu">Daftar Harga Minuman\nKopi : Rp10.000\nCoklat : Rp15000\nJahe : Rp5000</string>
+
+</resources>
